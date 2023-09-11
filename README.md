@@ -300,7 +300,7 @@ on GitHub.
 right side of the screen, you should see an edit button (with a pencil on it). Click that and make a small edit to
 the file. Then click the commit button to commit the change to the repository.
 
-This change has now been made on GitHub,
+This change/CHANGE GONNA COME has now been made on GitHub,
 but your local copy doesn't know about the change yet.
 
 - [ ] In IntelliJ, you can either click the `Git` menu and choose `Pull...`,
